@@ -1,0 +1,29 @@
+{
+  "name": "nodejsapi",
+  "version": "1.0.0",
+  "description": "This is a Node.Js Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumodube/NodeJsApi.git"
+  },
+  "keywords": [
+    "Rest",
+    "Api",
+    "Nodejs",
+    "Express",
+    "MongoDB"
+  ],
+  "author": "Dumo Dube",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dumodube/NodeJsApi/issues"
+  },
+  "homepage": "https://github.com/dumodube/NodeJsApi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
